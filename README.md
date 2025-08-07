@@ -55,7 +55,7 @@ After mastering SQL, I plan to move toward:
 
 Let’s grow together as data lovers!
 
-- 🌐 [LinkedIn]((https://www.linkedin.com/in/jaiswal-ar/))
+- 🌐 [LinkedIn]: https://www.linkedin.com/in/jaiswal-ar/
 - ✉️ Email: aryanjaiswal1003@yahoo.com
 
 ---
