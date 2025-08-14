@@ -32,12 +32,12 @@ This repo is a collection of hands-on SQL projects that I created while learning
 
 SQL is **not just a query language** – it's a powerful tool to:
 
-- Uncover hidden insights 🕵️‍♂️  
-- Understand user behavior 🔍  
-- Help businesses grow using data 📊  
-- Form the foundation for tools like Python, Pandas, PowerBI, Tableau & more 🔧  
+- Uncover hidden insights  
+- Understand user behavior 
+- Help businesses grow using data 
+- Form the foundation for tools like Python, Pandas, PowerBI, Tableau & more  
 
-This repository is my **SQL diary**, documenting my growth from a beginner to someone who can **ask questions to data** and get answers! 💬➡️📉
+This repository is my **SQL diary**, documenting my growth from a beginner to someone who can **ask questions to data** and get answers!
 
 
 ## What's Next?
